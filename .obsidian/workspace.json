@@ -11,8 +11,12 @@
             "id": "3216996f48e40b34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/post.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/post.md"
+              }
             }
           }
         ]
@@ -141,6 +149,9 @@
   },
   "active": "3216996f48e40b34",
   "lastOpenFiles": [
+    "content/english/post/240821-.md",
+    "templates/post.md",
+    "templates",
     "content/english/404.md",
     "content/english/terms-conditions.md"
   ]
