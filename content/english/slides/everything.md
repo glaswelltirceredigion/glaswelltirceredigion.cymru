@@ -1,6 +1,6 @@
 ---
 title: "Everything you wanted to know about setting up a grassland group but were afraid to ask"
-date: 2024-11-15T12:00:00+00:00
+date: 2024-08-15T12:00:00+00:00
 image: "https://res.cloudinary.com/naturceredigion/image/upload/w_800/v1721069713/240627-wwbic-meadow-id-llangeitho-tregaron.jpg"
 description: "Gardening for a Climate Crisis"
 draft: false
@@ -14,7 +14,7 @@ class: center, middle
 
 # Everything you wanted to know about setting up a grassland group but were afraid to ask
 
-_Glaswelltir Ceredigion Grassland as an example_
+_The curious case of Glaswelltir Ceredigion_
 
 [![Jake Rayson smiling](https://res.cloudinary.com/growdigital/image/upload/w_100,h_100,c_thumb,g_face,r_max/v1572195912/jake-askance.png)](/)
 
