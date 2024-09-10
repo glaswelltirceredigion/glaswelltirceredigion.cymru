@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html
-  lang="{{ site.LanguageCode | default `en-US` }}"
+  lang="{{ site.LanguageCode | default `en-GB` }}"
   itemscope
   itemtype="http://schema.org/WebPage">
   <head>
     <!-- head (don't cache it) -->
     {{ partial "essentials/head.html" . }}
-
 
     <!-- cache partial only in production -->
     {{ if hugo.IsProduction }}
@@ -25,10 +24,8 @@
       {{ partial "preloader.html" . }}
     {{ end }}
 
-
     <!-- header (don't cache it) -->
     {{ partial "essentials/header.html" . }}
-
 
     <main>
       {{ block "main" . }}{{ end }}
