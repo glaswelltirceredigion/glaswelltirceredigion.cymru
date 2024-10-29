@@ -30,6 +30,24 @@ by Jake Rayson
 
 ---
 
+What is in a name?
+
+---
+
+The Real World of Technology
+
+appropriate technology
+
+tools
+
+---
+
+Newsletter
+
+No Substack ’cos Nazis 
+
+---
+
 class: middle, center
 
 # The End

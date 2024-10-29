@@ -1,4 +1,4 @@
-{{ define "main" }}
+<!-- {{ define "main" }}
   {{ if site.Params.featured_post }}
     {{ partial "featured-post.html" . }}
   {{ end }}
@@ -7,3 +7,42 @@
   {{ partial "default.html" . }}
 
 {{ end }}
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Glaswelltir Ceredigion Grassland ☘️</title>
+  <style>
+    body {
+      color: #333333;
+      font-family: arial, sans-serif;
+      line-height: 1.4;
+      margin: 0 auto;
+      padding: 3rem;
+      text-align: center;
+      width: 50rem;
+    }
+  </style>
+</head>
+<body>
+<h1>Glaswelltir Ceredigion Grassland</h1>
+<h3>We aim to increase flower-rich grassland in Ceredigion by offering support and advice to landowners, guided by the Well-being of Future Generations Act.</h3>
+
+<p>
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/GlaswelltirCeredigion"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/GlaswelltirCeredigion', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Subscribe to our newsletter</label>
+  <input type="email" name="email" id="bd-email" />
+
+  <input type="submit" value="Subscribe" />
+</form>
+</p>
+
+</body>
+</html>
