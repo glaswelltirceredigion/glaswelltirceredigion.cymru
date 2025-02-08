@@ -1,0 +1,56 @@
+---
+title: "Grassland Nature ID"
+draft: false
+description: "Outline of Grassland Nature ID project"
+---
+
+- [This page online](https://grwd.cc/grassland-nature-id): **`grwd.cc/grassland-nature-id`**
+- *Last updated: Fri 7 Feb 2025*
+## 1. Summary
+Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education.
+## 2. Schools
+1. Plascrug - *Eve (Plantlife), Fiona (Glaswelltir Ceredigion)*
+2. Aberaeron - *Carys (WWBIC)*
+3. Llanarth - *Michelle (Plantlife), Bryony (Carex)*
+4. Aberporth - *Michelle (Plantlife), Jake (Glaswelltir Ceredigion)*
+5. Cardigan - *Yusef (WWBIC)*
+6. Lampeter - *Bryony (Carex)*
+## 3. Dates
+3 quizzes, 3 workshops
+1. **Quiz Apr** - w/b Mon 28 Apr
+2. **Workshop May** - from Tue 6 May
+3. **Workshop Jun** -  from Mon 2 Jun
+4. **Quiz Jun** - w/b Mon 23 Jun
+5. **Workshop Jul** - from Tue 1 Jul
+6. **Quiz Jul** - w/b Mon 18 Jul
+### Summer term
+- Start: **Mon 28 Apr**
+- Half term: **Mon 26 - Fri 30 May**
+- End: **Fri 18 Jul**
+- Bank holidays: 5 May, 26 May
+## 4. Partners
+- [Buzz Club](https://www.thebuzzclub.uk/) ([University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/)) **`thebuzzclub.uk`**
+- Carex Ecology
+- [Ceredigion Nature Partnership](https://naturceredigion.cymru/) **`naturceredigion.cymru`** 
+- [Keep Wales Tidy Eco-Schools](https://keepwalestidy.cymru/eco-schools/) **`keepwalestidy.cymru/eco-schools`**
+- [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/)  **`plantlife.org.uk/about-us/plantlife-cymru`**
+- [West Wales Biodiversity Information Centre (WWBIC)](https://www.wwbic.org.uk/) **`wwbic.org.uk`** 
+- [Wildlife Trust](https://www.welshwildlife.org/) **`welshwildlife.org`**
+## 5. Resources
+### Quiz
+* [Buzz Club quizzes](https://www.thebuzzclub.uk/resources) **`thebuzzclub.uk/resources`**
+* [Isobel Entolive talk](https://youtu.be/TxrrQE1wOfo?feature=shared) **`youtu.be/TxrrQE1wOfo`** 
+### Map
+- [Google Map](https://grwd.cc/glaswelltir-ceredigion-map) **`grwd.cc/glaswelltir-ceredigion-map`**
+![Duotone map of Ceredigion](https://res.cloudinary.com/glaswelltir/image/upload/w_800/v1738751937/250205-meadow-ring-road-halftone.webp)
+### Apps
+- [LERC Wales](https://lercwales.org.uk/app.php) -  based on iRecord **`lercwales.org.uk/app.php`**
+- [iRecord](https://irecord.org.uk) - UK **`irecord.org.uk`**
+- [iNaturalist](https://inaturalist.org) - US **`inaturalist.org`**
+- [Seek](https://inaturalist.org/pages/seek_app) - gamified iNaturalist **`inaturalist.org/pages/seek_app`**
+- [PlantNet](https://plantnet.org) - worldwide plant ID **`plantnet.org`**
+### Websites
+- [Plantlife Managing Meadows](https://www.plantlife.org.uk/learning-resource/managing-meadows/) **`plantlife.org.uk/learning-resource/managing-meadows`**
+- [Plant Atlas](https://plantatlas2020.org) - UK plants **`plantatlas2020.org`**
+- [NBN Atlas](https://nbnatlas.org) - UK biodiversity **`nbnatlas.org`**
+- [GBIF](https://gbif.org) - global biodiversity **`gbif.org`**
