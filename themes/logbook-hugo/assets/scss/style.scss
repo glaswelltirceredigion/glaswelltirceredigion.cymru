@@ -11,7 +11,7 @@ $white: {{.white}};
 $light: {{.light}};
 
 // Font Variables
-$font-size: {{.font_size | default "16px"}};
+$font-size: {{.font_size | default "18px"}};
 $font-scale: {{.font_scale | default "1.2"}};
 $font-primary: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .font_primary | default "Lato"}}', {{.font_primary_type | default "sans-serif"}};
 $font-secondary: '{{ replaceRE ":[ital,]*wght@[0-9,;]+" "" .font_secondary | default "Lato"}}', {{.font_secondary_type | default "sans-serif"}};
