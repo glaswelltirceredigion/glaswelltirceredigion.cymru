@@ -4,8 +4,8 @@ draft: false
 description: "Outline of Grassland Nature ID project"
 ---
 
-- [This page online](https://grwd.cc/grassland-nature-id): **`grwd.cc/grassland-nature-id`**
-- *Last updated: Fri 7 Feb 2025*
+- [This page online](https://glaswelltirceredigion.cymru/grassland-nature-id): **`glaswelltirceredigion.cymru/grassland-nature-id`**
+- *Last updated: Sat 8 Feb 2025*
 ## 1. Summary
 Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education.
 ## 2. Schools
@@ -54,3 +54,11 @@ Partnering schools with owners of semi-natural grassland and providing training,
 - [Plant Atlas](https://plantatlas2020.org) - UK plants **`plantatlas2020.org`**
 - [NBN Atlas](https://nbnatlas.org) - UK biodiversity **`nbnatlas.org`**
 - [GBIF](https://gbif.org) - global biodiversity **`gbif.org`**
+### Wildlife ID equipment
+- Barrel pooter x6 @£5 = £30
+- [Bug Pots](https://www.nhbs.com/bug-pots-set-of-10?bkfno=202236) (set of 10) x1 @£17
+- [Long-handled Standard Sweep Net](https://www.nhbs.com/long-handled-standard-sweep-net?bkfno=245829) x3 @£38 = £114
+- [Singlet Loupe 21mm 10x Hand Lens](https://www.nhbs.com/singlet-loupe-10-x-21mm-hand-lens?bkfno=181284) x6 @£12 = £72
+- [Q2 Quadrat](https://www.nhbs.com/q2-quadrat?bkfno=175986) x1 @ £20
+- Shipping £22
+- **Total £275**
