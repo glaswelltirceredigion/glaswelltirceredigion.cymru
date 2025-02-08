@@ -1,7 +1,7 @@
 ################################### English language #####################################
 [en]
 languageName = "En"
-languageCode = "en-us"
+languageCode = "en-gb"
 contentDir = "content/english"
 weight = 1
 # footer content
@@ -12,8 +12,8 @@ footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
 ################################### French language #####################################
 [fr]
 languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+languageCode = "cy-cy"
+contentDir = "content/cymraeg"
 weight = 2
 # footer content
 [fr.params]
