@@ -21,7 +21,7 @@ Partnering schools with owners of semi-natural grassland and providing training,
 3. **Workshop Jun** -  from Mon 2 Jun
 4. **Quiz Jun** - w/b Mon 23 Jun
 5. **Workshop Jul** - from Tue 1 Jul
-6. **Quiz Jul** - w/b Mon 18 Jul
+6. **Quiz Jul** - w/b Mon 14 Jul
 ### Summer term
 - Start: **Mon 28 Apr**
 - Half term: **Mon 26 - Fri 30 May**
