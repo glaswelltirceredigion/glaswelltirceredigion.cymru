@@ -3,11 +3,10 @@ title: "Grassland Nature ID"
 draft: false
 description: "Outline of Grassland Nature ID project"
 ---
-
-- [This page online](https://glaswelltirceredigion.cymru/grassland-nature-id): **`glaswelltirceredigion.cymru/grassland-nature-id`**
-- *Last updated: Sat 8 Feb 2025*
+- [This page online](https://grwd.cc/grassland-nature-id): **`grwd.cc/grassland-nature-id`**
+- *Last updated: Wed 12 Feb 2025*
 ## 1. Summary
-Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education.
+Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education. 
 ## 2. Schools
 1. Plascrug - *Eve (Plantlife), Fiona (Glaswelltir Ceredigion)*
 2. Aberaeron - *Carys (WWBIC)*
@@ -51,14 +50,24 @@ Partnering schools with owners of semi-natural grassland and providing training,
 - [PlantNet](https://plantnet.org) - worldwide plant ID **`plantnet.org`**
 ### Websites
 - [Plantlife Managing Meadows](https://www.plantlife.org.uk/learning-resource/managing-meadows/) **`plantlife.org.uk/learning-resource/managing-meadows`**
+- [Big Meadow Search](https://bigmeadowsearch.co.uk/) **`bigmeadowsearch.co.uk`** 
 - [Plant Atlas](https://plantatlas2020.org) - UK plants **`plantatlas2020.org`**
 - [NBN Atlas](https://nbnatlas.org) - UK biodiversity **`nbnatlas.org`**
 - [GBIF](https://gbif.org) - global biodiversity **`gbif.org`**
 ### Wildlife ID equipment
 - Barrel pooter x6 @£5 = £30
 - [Bug Pots](https://www.nhbs.com/bug-pots-set-of-10?bkfno=202236) (set of 10) x1 @£17
-- [Long-handled Standard Sweep Net](https://www.nhbs.com/long-handled-standard-sweep-net?bkfno=245829) x3 @£38 = £114
+-  [Long-handled Standard Sweep Net](https://www.nhbs.com/long-handled-standard-sweep-net?bkfno=245829) x3 @£38 = £114
 - [Singlet Loupe 21mm 10x Hand Lens](https://www.nhbs.com/singlet-loupe-10-x-21mm-hand-lens?bkfno=181284) x6 @£12 = £72
 - [Q2 Quadrat](https://www.nhbs.com/q2-quadrat?bkfno=175986) x1 @ £20
 - Shipping £22
 - **Total £275**
+### Publications provided
+- [Llyfr Natur Iolo](https://www.waterstones.com/book/llyfr-natur-iolo/paul-sterry/iolo-williams/9781845271312)
+- [Big Meadow Search book](https://bigmeadowsearch.co.uk/about-bms-and-our-bms-book)
+- [Field Studies Council](https://www.field-studies-council.org/shop/)
+    1. [Phase 1 survey guide: Grassland and marsh](https://www.field-studies-council.org/shop/publications/phase-1-survey-guide-grassland-and-marsh/)
+    2. [Hedgerows Guide](https://www.field-studies-council.org/shop/publications/hedgerows-guide/)
+    3. [Insects Of The British Isles Guide](https://www.field-studies-council.org/shop/publications/insects-of-the-british-isles-guide/)
+    4. [Bugs On Bushes](https://www.field-studies-council.org/shop/publications/bugs-on-bushes/)
+    5. [Garden bugs and beasties](https://www.field-studies-council.org/shop/publications/garden-bugs-and-beasties/) 
