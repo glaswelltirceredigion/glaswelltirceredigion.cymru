@@ -4,7 +4,7 @@ draft: false
 description: "Outline of Grassland Nature ID project"
 ---
 - [This page online](https://grwd.cc/grassland-nature-id): **`grwd.cc/grassland-nature-id`**
-- *Last updated: Wed 12 Feb 2025*
+- *Last updated: Wed 19 Feb 2025*
 ## 1. Summary
 Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education. 
 ## 2. Schools
@@ -55,13 +55,17 @@ Partnering schools with owners of semi-natural grassland and providing training,
 - [NBN Atlas](https://nbnatlas.org) - UK biodiversity **`nbnatlas.org`**
 - [GBIF](https://gbif.org) - global biodiversity **`gbif.org`**
 ### Wildlife ID equipment
-- Barrel pooter x6 @£5 = £30
-- [Bug Pots](https://www.nhbs.com/bug-pots-set-of-10?bkfno=202236) (set of 10) x1 @£17
--  [Long-handled Standard Sweep Net](https://www.nhbs.com/long-handled-standard-sweep-net?bkfno=245829) x3 @£38 = £114
-- [Singlet Loupe 21mm 10x Hand Lens](https://www.nhbs.com/singlet-loupe-10-x-21mm-hand-lens?bkfno=181284) x6 @£12 = £72
-- [Q2 Quadrat](https://www.nhbs.com/q2-quadrat?bkfno=175986) x1 @ £20
-- Shipping £22
-- **Total £275**
+
+| Item                                                                                                    | No. | Cost  |  Total   |
+| ------------------------------------------------------------------------------------------------------- | :-: | :---: | :------: |
+| Barrel pooter DIY                                                                                       | 10  | £1.50 |   £15    |
+| [Bug Pots](https://www.nhbs.com/bug-pots-set-of-10?bkfno=202236)                                        | 10  | £1.70 |   £17    |
+| [Long-handled Standard Sweep Net](https://www.nhbs.com/long-handled-standard-sweep-net?bkfno=245829)    |  3  |  £38  |   £114   |
+| [Singlet Loupe 21mm 10x Hand Lens](https://www.nhbs.com/singlet-loupe-10-x-21mm-hand-lens?bkfno=181284) |  6  |  £12  |   £72    |
+| [Clear Plastic Magnifier](https://www.nhbs.com/clear-plastic-magnifier)                                 |  6  | £1.50 |    £9    |
+| [Q2 Quadrat](https://www.nhbs.com/q2-quadrat?bkfno=175986)                                              |  1  |  £20  |   £20    |
+| *Shipping*                                                                                              |     |       |  *£22*   |
+| **Total**                                                                                               |     |       | £**269** |
 ### Publications provided
 - [Llyfr Natur Iolo](https://www.waterstones.com/book/llyfr-natur-iolo/paul-sterry/iolo-williams/9781845271312)
 - [Big Meadow Search book](https://bigmeadowsearch.co.uk/about-bms-and-our-bms-book)
@@ -71,3 +75,4 @@ Partnering schools with owners of semi-natural grassland and providing training,
     3. [Insects Of The British Isles Guide](https://www.field-studies-council.org/shop/publications/insects-of-the-british-isles-guide/)
     4. [Bugs On Bushes](https://www.field-studies-council.org/shop/publications/bugs-on-bushes/)
     5. [Garden bugs and beasties](https://www.field-studies-council.org/shop/publications/garden-bugs-and-beasties/) 
+    6. [Distinctive grassland fungi](https://www.field-studies-council.org/shop/publications/distinctive-grassland-fungi/)
