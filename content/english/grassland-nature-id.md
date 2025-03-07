@@ -1,7 +1,9 @@
 ---
-title: "Grassland Nature ID"
+title: "Grassland ID"
 draft: false
-description: "Outline of Grassland Nature ID project"
+description: "Outline of Grassland ID project"
+aliases:
+- /grassland-nature-id/
 ---
 - [This page online](https://grwd.cc/grassland-nature-id): **`grwd.cc/grassland-nature-id`**
 - *Last updated: Wed 19 Feb 2025*
