@@ -6,14 +6,14 @@ aliases:
 - /grassland-nature-id/
 ---
 - [This page online](https://grwd.cc/grassland-nature-id): **`grwd.cc/grassland-nature-id`**
-- *Last updated: Wed 19 Feb 2025*
+- *Last updated: Fri 7 Mar 2025
 ## 1. Summary
 Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education. 
 ## 2. Schools
-1. Plascrug - *Eve (Plantlife), Fiona (Glaswelltir Ceredigion)*
+1. Plascrug - *Fiona (Glaswelltir Ceredigion), Eve (Plantlife)*
 2. Aberaeron - *Carys (WWBIC)*
-3. Llanarth - *Michelle (Plantlife), Bryony (Carex)*
-4. Aberporth - *Michelle (Plantlife), Jake (Glaswelltir Ceredigion)*
+3. Llanarth - *Bryony (Carex), Michelle (Plantlife)*
+4. Aberporth - *Jake (Glaswelltir Ceredigion), Michelle (Plantlife)*
 5. Cardigan - *Yusef (WWBIC)*
 6. Lampeter - *Bryony (Carex)*
 ## 3. Dates
