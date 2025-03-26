@@ -5,6 +5,9 @@ description: "Draft worksheets for translation"
 aliases: 
 - /worksheets/
 ---
+
+*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Calendar](/grassland-id/calendar/) • [Water](/grassland-id/water/)*
+
 ## Worksheet 1
 ### Plants
 1. Clover  

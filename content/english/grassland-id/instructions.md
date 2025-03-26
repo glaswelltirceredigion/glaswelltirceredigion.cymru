@@ -3,6 +3,9 @@ title: "Instructions"
 draft: false
 description: "Grassland ID instructions for teachers & workshop leaders"
 date: 2025-03-26T10:21:11+00:00
+aliases: 
+- /grassland-nature-id/
+- /grassland-id/
 ---
 
 *• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Calendar](/grassland-id/calendar/) • [Water](/grassland-id/water/)*
