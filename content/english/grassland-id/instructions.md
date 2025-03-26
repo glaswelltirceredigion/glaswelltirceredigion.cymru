@@ -16,17 +16,17 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - 3 Citizen Science quizzes
 - Run by Isobel from the [Buzz Club](https://www.thebuzzclub.uk/) at [University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/) 
 - Results used in research
-- **Spreadsheet for each school tracks quiz scores**
+- <mark>Spreadsheet for each school tracks quiz scores</mark>
 - Details: initials, student code, age, days in nature per month
 ## 3. Workshops
 - 3 x 2 hour workshops
 - Second workshop on school grounds
-- **Mark out 4m x 4m school grass, leave unmown!**
+- <mark>Mark out 4m x 4m school grass, leave unmown!</mark>
 - At last workshop, conduct **[water infiltration test](/grassland-id/water/)**
 ## 4. Habitat
 - Management plan
 - £300 budget for habitat improvement
-- Doug - [Wildlife Trust](https://www.welshwildlife.org/) **`welshwildlife.org`**
+- Doug - [Wildlife Trust](https://www.welshwildlife.org/)
 ## 5. Schools
 1. Plascrug - *Fiona & Eve*
 2. Aberaeron - *Carys & Jake*
