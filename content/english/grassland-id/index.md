@@ -5,25 +5,30 @@ description: "Outline of Grassland ID project"
 aliases:
 - /grassland-nature-id/
 ---
-- [This page online](https://grwd.cc/grassland-nature-id): **`grwd.cc/grassland-nature-id`**
-- *Last updated: Fri 7 Mar 2025
+- [This page online](https://glaswelltir.cymru/grassland-id): **`glaswelltir.cymru/grassland-id`**
+- *Last updated:* Wed 26 Mar 2025
+
+• [Outline](/grassland-id/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/dates/) • [Water](/grassland-id/water/)
+
 ## 1. Summary
-Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education. 
+Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education.
 ## 2. Schools
-1. Plascrug - *Fiona (Glaswelltir Ceredigion), Eve (Plantlife)*
-2. Aberaeron - *Carys (WWBIC)*
-3. Llanarth - *Bryony (Carex), Michelle (Plantlife)*
-4. Aberporth - *Jake (Glaswelltir Ceredigion), Michelle (Plantlife)*
-5. Cardigan - *Yusef (WWBIC)*
-6. Lampeter - *Bryony (Carex)*
+1. Plascrug - *Fiona & Eve*
+2. Aberaeron - *Carys & Jake*
+3. Llanarth - *Bryony & Michelle*
+4. Aberporth - *Jake & Michelle*
+5. Cardigan - *Yusef & Jake*
+6. Lampeter - *Bryony & Jake*
+7. Cilgerran (affiliated) - *Bryony & Jake*
 ## 3. Dates
-3 quizzes, 3 workshops
-1. **Quiz Apr** - w/b Mon 28 Apr
-2. **Workshop May** - from Tue 6 May
-3. **Workshop Jun** -  from Mon 2 Jun
-4. **Quiz Jun** - w/b Mon 23 Jun
-5. **Workshop Jul** - from Tue 1 Jul
-6. **Quiz Jul** - w/b Mon 14 Jul
+- `14 Apr - 27 Apr` *Easter holidays* 
+- `28 Apr - 02 May` Quiz 1
+- `06 May - 30 May` Workshop 1 - Grassland
+- `26 May - 01 Jun` *Half term*
+- `02 Jun - 20 Jun` Workshop 2 - School
+- `23 Jun - 27 Jun` Quiz 2
+- `30 Jun - 11 Jul` Workshop 3 - Grassland
+- `14 Jul - 17 Jul` Quiz 3
 ### Summer term
 - Start: **Mon 28 Apr**
 - Half term: **Mon 26 - Fri 30 May**
