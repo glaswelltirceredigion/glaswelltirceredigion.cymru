@@ -5,40 +5,39 @@ description: "Grassland ID instructions for teachers & workshop leaders"
 date: 2025-03-26T10:21:11+00:00
 ---
 
-*• [Outline](/grassland-id/outline/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/dates/) • [Water](/grassland-id/water/)*
+*• [Outline](/grassland-id/outline/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/calendar/) • [Water](/grassland-id/water/)*
 
-## Overview
-Partnering schools with owners of semi-natural grassland and providing workshops, ID equipment, publications and low-cost habitat improvement to establish long-term observations through community engagement and education.
-
-3 quizzes and 3 workshops
-
-## Quiz
-- citizen science! buzz club, university of sussex
-- fill in spreadsheet - dates and 
-- do quiz/workshop in order
-### Spreadsheet
-
-## Workshops
-
-## Dates
-- `14 Apr - 27 Apr` - Easter holidays 
-- `28 Apr - 02 May` - Quiz 1, Apr
-- `06 May - 30 May` - Workshop 1, May - Grassland
-- `26 May - 01 Jun` - Half term
-- `02 Jun - 20 Jun` - Workshop 2, Jun - School
-- `23 Jun - 27 Jun` - Quiz 2, Jun
-- `30 Jun - 11 Jul` - Workshop 3, Jul - Grassland
-- `14 Jul - 17 Jul` - Quiz 3, Jul
-
-<iframe
-  id="events-calendar"
-  title="Grassland ID dates"
-  style="width:100%; height:80vh"
-  src="https://calendar.google.com/calendar/embed?src=15d8efe10ce7f23ed350597acabaf79e0925cca8d7b345a6c3fe61d7a821aa43%40group.calendar.google.com&ctz=Europe%2FLondon"
-  >
-</iframe>
-
-## Kit
+## 1. Aims
+Partner schools with grassland owners and provide workshops, ID equipment, publications and low-cost habitat improvement to establish long-term observations through community engagement and education.
+## 2. Quiz
+- 3 Citizen Science quizzes
+- Run by Isobel from the [Buzz Club](https://www.thebuzzclub.uk/) at [University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/) 
+- Results used in research
+- Spreadsheet for each school tracks quiz scores
+- Details: initials, student code, age, days in nature per month
+## 3. Workshops
+- 3 x 2 hour workshops
+- Second workshop on school grounds
+- Mark out 4m x 4m school grass test, unmown!
+## 4. Schools
+1. Plascrug - *Fiona & Eve*
+2. Aberaeron - *Carys & Jake*
+3. Llanarth - *Bryony & Michelle*
+4. Aberporth - *Jake & Michelle*
+5. Cardigan - *Yusef & Jake*
+6. Lampeter - *Bryony & Jake*
+7. Cilgerran (affiliated) - *Bryony & Jake*
+## 5. Dates
+- `14 Apr - 27 Apr` - *Easter holidays* 
+- `28 Apr - 02 May` - Quiz 1
+- `06 May - 30 May` - Workshop 1 - Grassland
+- `26 May - 01 Jun` - *Half term*
+- `02 Jun - 20 Jun` - Workshop 2 - School
+- `23 Jun - 27 Jun` - Quiz 2
+- `30 Jun - 11 Jul` - Workshop 3 - Grassland
+- `14 Jul - 17 Jul` - Quiz 3
+- [Calendar](/grassland-id/calendar)
+## 6. Kit
 ### Wildlife ID
 | Item                                                                                                    | No. | Cost  |  Total   |
 | ------------------------------------------------------------------------------------------------------- | :-: | :---: | :------: |
@@ -60,4 +59,14 @@ Partnering schools with owners of semi-natural grassland and providing workshops
     4. [Bugs On Bushes](https://www.field-studies-council.org/shop/publications/bugs-on-bushes/)
     5. [Garden bugs and beasties](https://www.field-studies-council.org/shop/publications/garden-bugs-and-beasties/) 
     6. [Distinctive grassland fungi](https://www.field-studies-council.org/shop/publications/distinctive-grassland-fungi/)
-
+## 7. Resources
+### Map
+- [Google Map](https://grwd.cc/glaswelltir-ceredigion-map) **`grwd.cc/glaswelltir-ceredigion-map`**
+![Duotone map of Ceredigion](https://res.cloudinary.com/glaswelltir/image/upload/w_800/v1738751937/250205-meadow-ring-road-halftone.webp)
+### Digital
+- [LERC Wales](https://lercwales.org.uk/app.php) - ID app **`lercwales.org.uk/app.php`**
+- [Plantlife Managing Meadows](https://www.plantlife.org.uk/learning-resource/managing-meadows/) **`plantlife.org.uk/learning-resource/managing-meadows`**
+- [Big Meadow Search](https://bigmeadowsearch.co.uk/) **`bigmeadowsearch.co.uk`** 
+- [Plant Atlas](https://plantatlas2020.org) - UK plants **`plantatlas2020.org`**
+- [NBN Atlas](https://nbnatlas.org) - UK biodiversity **`nbnatlas.org`**
+- [GBIF](https://gbif.org) - global biodiversity **`gbif.org`**
