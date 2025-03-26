@@ -5,16 +5,10 @@ description: "Draft worksheets for translation"
 ---
 - Author: Jake Rayson
 - Created: Thu 20 Mar 2025
-- Last modified: Tue 25 Mar 2025
-### Contents
-1. Quiz
-2. Worksheet
-3. Water infiltration
-4. Instructions
-## 1. Quiz
-## 2. Worksheet
-### Workshop 1
-#### Plants
+- Last modified: Wed 26 Mar 2025
+---
+## Worksheet 1
+### Plants
 1. Clover  
    ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764528/250321-Red-Clover-flower-Yusef-Samari.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764528/250321-White-Clover-leaf-Yusef-Samari.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764528/250321-White-Clover-flower-Yusef-Samari.jpg)
     1. Head of many small white or pink flowers at top of stem
@@ -40,7 +34,7 @@ description: "Draft worksheets for translation"
     1. Long, flat, narrow leaf that surrounds stem
     2. No petals
     3. Bumpy nodes along stem
-#### Invertebrates
+### Invertebrates
 1. Butterflies & moths  
    ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764543/080710-moth-Scarlet-Tiger-Konrad-Lackerbeck.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742765137/150802-butterfly-Large-White-ZeynelCebeci.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764542/090804-Peacock-butterfly-open-Korall.jpg)
     1. Four scaly wings
@@ -66,8 +60,8 @@ description: "Draft worksheets for translation"
     1. Eight legs
     2. Lots of eyes
     3. They have a waist! 
-### Workshop 2
-#### Plants
+## Worksheet 2
+### Plants
 1. Thistle  
    ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764435/220724-Spear-Thistle-plant-Krzysztof-Ziarnek.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742919301/160803-Spear-Thistle-flowerhead-seedhead-IvarLeidus.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764434/250321-Marsh-Thistle-spines-Yusef-Samari.jpg)
     1. Spiny
@@ -93,7 +87,7 @@ description: "Draft worksheets for translation"
     1. Tiny white flowers
     2. Umbrella shaped flower head
     3. Large, divided leaf
-#### Invertebrates
+### Invertebrates
 1. Hoverflies & other flies  
    ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764454/180511-Noon-Fly-GailHampshire.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764454/090726-Marmalade-Hoverfly-Hogweed-flower-Quarti.jpg) ![](https://res.cloudinary.com/glaswelltir/image/upload/w_200/v1742764453/130826-Drone-Fly-hoverfly-Ragwort-flower-FrancisCFranklin.jpg)
     1. Big eyes
@@ -119,33 +113,3 @@ description: "Draft worksheets for translation"
     1. Flat, broad (shield-like) bodies with six legs
     2. Long antenna
     3. Look like a leaf
-## 3. Water infiltration test
-Reproduced with kind permission of [Agriculture and Horticulture Development Board](https://ahdb.org.uk/) . Original page: [ahdb.org.uk/knowledge-library/water-infiltration-test](https://ahdb.org.uk/knowledge-library/water-infiltration-test)
-### Drainpipe test to measure infiltration of water into soil
-Use the drainpipe test as a cheap and simple way to measure the infiltration of water into soil. When combined with the spade test, the causes of reduced infiltration (e.g. compaction at depth) can be quickly identified.
-
-This test measures the rate at which water can infiltrate into soil when macropores and micropores are channelling water. It is therefore mainly an indication of the extent of earthworm and old root channels in the soil.
-#### You will need:
-- A short length of pipe 10 cm in diameter and 20 cm long
-- Hammer
-- Stopwatch (often available on your phone)
-- 5 litres of water (the same depth of water should be used for each test; 10 cm is suggested)
-#### Step-by-step:
-1. Drive the pipe halfway into the ground using a hammer, to leave 10 cm standing above the ground.
-2. Pour in water (approximately 800 ml) to a depth of 10 cm.
-3. Start the stopwatch immediately and measure the time taken for the water to drain into the soil.
-4. Repeat at several locations e.g. in a bed, in a wheeling between beds.
-5. After the test, check for any compaction in the soil, e.g. by digging adjacent to the infiltration test.
-In well-structured soil, water moves faster down the soil profile. For soil in good health, the water should drain away within 2 to 5 minutes for light or medium soils. A heavy clay soil with poor structure could take 20 minutes or longer.
-#### Drainpipe water infiltration test
-![Drainpipe segment buried in soil with soil visible at the bottom](https://res.cloudinary.com/glaswelltir/image/upload/v1742919829/250325-drainpipe-water-infiltration-test-soil-visible.webp) ![Drainpipe segment buried in soil filled with water](https://res.cloudinary.com/glaswelltir/image/upload/v1742919830/250325-drainpipe-water-infiltration-test-water-visible.webp)
-## 4. Instructions
-### Dates
-
-<iframe
-  id="events-calendar"
-  title="Grassland ID dates"
-  style="width:100%; height:80vh"
-  src="https://calendar.google.com/calendar/embed?src=15d8efe10ce7f23ed350597acabaf79e0925cca8d7b345a6c3fe61d7a821aa43%40group.calendar.google.com&ctz=Europe%2FLondon"
-  >
-</iframe>
