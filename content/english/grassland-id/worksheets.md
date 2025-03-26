@@ -2,10 +2,8 @@
 title: "Worksheets"
 draft: false
 description: "Draft worksheets for translation"
----
-- Author: Jake Rayson
-- Created: Thu 20 Mar 2025
-- Last modified: Wed 26 Mar 2025
+aliases: 
+- /worksheets/
 ---
 ## Worksheet 1
 ### Plants
@@ -115,5 +113,5 @@ description: "Draft worksheets for translation"
     3. Look like a leaf
 
 ---
-Glaswelltir Ceredigion Grassland [glaswelltirceredigion.cymru](https://glaswelltirceredigion.cymru)
-_Valuing grassland in the community_
+Glaswelltir Ceredigion Grassland [glaswelltirceredigion.cymru](https://glaswelltirceredigion.cymru)  
+_Valuing & increasing flower-rich grassland in Ceredigion_
