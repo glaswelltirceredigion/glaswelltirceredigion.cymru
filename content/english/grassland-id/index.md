@@ -1,5 +1,5 @@
 ---
-title: "Grassland ID"
+title: "Grassland ID outline"
 draft: false
 description: "Outline of Grassland ID project"
 aliases:
