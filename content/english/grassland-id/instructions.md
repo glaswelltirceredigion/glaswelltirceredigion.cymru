@@ -23,7 +23,11 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - Second workshop on school grounds
 - **Mark out 4m x 4m school grass test, unmown!**
 - Last workshop run **water infiltration test**
-## 4. Schools
+## 4. Habitat
+- Management plan
+- £300 budget for habitat improvement
+- Doug - [Wildlife Trust](https://www.welshwildlife.org/) **`welshwildlife.org`**
+## 5. Schools
 1. Plascrug - *Fiona & Eve*
 2. Aberaeron - *Carys & Jake*
 3. Llanarth - *Bryony & Michelle*
@@ -31,7 +35,7 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 5. Cardigan - *Yusef & Jake*
 6. Lampeter - *Bryony & Jake*
 7. Cilgerran (affiliated) - *Bryony & Jake*
-## 5. Dates
+## 6. Dates
 - `14 Apr - 27 Apr` - *Easter holidays* 
 - `28 Apr - 02 May` - Quiz 1
 - `06 May - 30 May` - Workshop 1 - Grassland
@@ -41,7 +45,15 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - `30 Jun - 11 Jul` - Workshop 3 - Grassland
 - `14 Jul - 17 Jul` - Quiz 3
 - [Calendar](/grassland-id/calendar)
-## 6. Kit
+## 7. Partners
+- Isobel - [Buzz Club](https://www.thebuzzclub.uk/) ([University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/)) **`thebuzzclub.uk`**
+- Brioney & Kate - Carex Ecology
+- Fiona & Jake - [Ceredigion Nature Partnership](https://naturceredigion.cymru/) **`naturceredigion.cymru`** 
+- Carys & Yusef - [West Wales Biodiversity Information Centre (WWBIC)](https://www.wwbic.org.uk/) **`wwbic.org.uk`** 
+- Eve & Michelle - [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/)  **`plantlife.org.uk/about-us/plantlife-cymru`**
+- Doug - [Wildlife Trust](https://www.welshwildlife.org/) **`welshwildlife.org`**
+- [Keep Wales Tidy Eco-Schools](https://keepwalestidy.cymru/eco-schools/) **`keepwalestidy.cymru/eco-schools`**
+## 8. Kit
 ### Wildlife ID
 | Item                                                                                                    | No. | Cost  |  Total   |
 | ------------------------------------------------------------------------------------------------------- | :-: | :---: | :------: |
@@ -67,7 +79,7 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
     4. [Bugs On Bushes](https://www.field-studies-council.org/shop/publications/bugs-on-bushes/)
     5. [Garden bugs and beasties](https://www.field-studies-council.org/shop/publications/garden-bugs-and-beasties/) 
     6. [Distinctive grassland fungi](https://www.field-studies-council.org/shop/publications/distinctive-grassland-fungi/)
-## 7. Resources
+## 9. Resources
 ### Map
 - [Google Map](https://grwd.cc/glaswelltir-ceredigion-map) **`grwd.cc/glaswelltir-ceredigion-map`**
 ![Duotone map of Ceredigion](https://res.cloudinary.com/glaswelltir/image/upload/w_800/v1738751937/250205-meadow-ring-road-halftone.webp)
