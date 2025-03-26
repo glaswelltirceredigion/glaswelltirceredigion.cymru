@@ -22,7 +22,7 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - 3 x 2 hour workshops
 - Second workshop on school grounds
 - <mark>Mark out 4m x 4m school grass, leave unmown!</mark>
-- At last workshop, conduct **[water infiltration test](/grassland-id/water/)**
+- At last workshop, conduct **[<mark>water infiltration test</mark>](/grassland-id/water/)**
 ## 4. Habitat
 - Management plan
 - £300 budget for habitat improvement
