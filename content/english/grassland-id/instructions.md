@@ -21,8 +21,8 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 ## 3. Workshops
 - 3 x 2 hour workshops
 - Second workshop on school grounds
-- **Mark out 4m x 4m school grass test, unmown!**
-- Last workshop run **[water infiltration test](/grassland-id/water/)**
+- **Mark out 4m x 4m school grass, leave unmown!**
+- At last workshop, conduct **[water infiltration test](/grassland-id/water/)**
 ## 4. Habitat
 - Management plan
 - £300 budget for habitat improvement
@@ -46,13 +46,13 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - `14 Jul - 17 Jul` - Quiz 3
 - [Calendar](/grassland-id/calendar)
 ## 7. Partners
-- Isobel - [Buzz Club](https://www.thebuzzclub.uk/) ([University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/)) **`thebuzzclub.uk`**
+- Isobel - [Buzz Club](https://www.thebuzzclub.uk/) ([University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/)) 
 - Brioney & Kate - Carex Ecology
-- Fiona & Jake - [Ceredigion Nature Partnership](https://naturceredigion.cymru/) **`naturceredigion.cymru`** 
-- Carys & Yusef - [West Wales Biodiversity Information Centre (WWBIC)](https://www.wwbic.org.uk/) **`wwbic.org.uk`** 
-- Eve & Michelle - [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/)  **`plantlife.org.uk/about-us/plantlife-cymru`**
-- Doug - [Wildlife Trust](https://www.welshwildlife.org/) **`welshwildlife.org`**
-- [Keep Wales Tidy Eco-Schools](https://keepwalestidy.cymru/eco-schools/) **`keepwalestidy.cymru/eco-schools`**
+- Fiona & Jake - [Ceredigion Nature Partnership](https://naturceredigion.cymru/) 
+- Carys & Yusef - [West Wales Biodiversity Information Centre (WWBIC)](https://www.wwbic.org.uk/) 
+- Eve & Michelle - [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/)  
+- Doug - [Wildlife Trust](https://www.welshwildlife.org/) 
+- [Keep Wales Tidy Eco-Schools](https://keepwalestidy.cymru/eco-schools/) 
 ## 8. Kit
 ### Wildlife ID
 | Item                                                                                                    | No. | Cost  |  Total   |
@@ -81,13 +81,13 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
     6. [Distinctive grassland fungi](https://www.field-studies-council.org/shop/publications/distinctive-grassland-fungi/)
 ## 9. Resources
 ### Map
-- [Google Map](https://grwd.cc/glaswelltir-ceredigion-map) **`grwd.cc/glaswelltir-ceredigion-map`**
+- [Google Map](https://grwd.cc/glaswelltir-ceredigion-map) 
 ![Duotone map of Ceredigion](https://res.cloudinary.com/glaswelltir/image/upload/w_800/v1738751937/250205-meadow-ring-road-halftone.webp)
 ### Digital
-- [LERC Wales](https://lercwales.org.uk/app.php) - ID app **`lercwales.org.uk/app.php`**  
+- [LERC Wales](https://lercwales.org.uk/app.php) - ID app 
   **Show teacher how to use app**
-- [Plantlife Managing Meadows](https://www.plantlife.org.uk/learning-resource/managing-meadows/) **`plantlife.org.uk/learning-resource/managing-meadows`**
-- [Big Meadow Search](https://bigmeadowsearch.co.uk/) **`bigmeadowsearch.co.uk`** 
-- [Plant Atlas](https://plantatlas2020.org) - UK plants **`plantatlas2020.org`**
-- [NBN Atlas](https://nbnatlas.org) - UK biodiversity **`nbnatlas.org`**
-- [GBIF](https://gbif.org) - global biodiversity **`gbif.org`**
+- [Plantlife Managing Meadows](https://www.plantlife.org.uk/learning-resource/managing-meadows/) 
+- [Big Meadow Search](https://bigmeadowsearch.co.uk/) 
+- [Plant Atlas](https://plantatlas2020.org) - UK plants 
+- [NBN Atlas](https://nbnatlas.org) - UK biodiversity 
+- [GBIF](https://gbif.org) - global biodiversity 
