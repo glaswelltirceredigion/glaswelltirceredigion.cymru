@@ -4,7 +4,7 @@ draft: false
 description: "Grassland ID instructions for teachers & workshop leaders"
 ---
 
-*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Calendar](/grassland-id/calendar/) • [Water](/grassland-id/water/)*
+*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Water](/grassland-id/water/) • [Calendar](/grassland-id/calendar/)*
 
 <iframe
   id="events-calendar"

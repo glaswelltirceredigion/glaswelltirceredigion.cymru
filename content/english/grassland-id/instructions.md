@@ -8,7 +8,7 @@ aliases:
 - /grassland-id/
 ---
 
-*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Calendar](/grassland-id/calendar/) • [Water](/grassland-id/water/)*
+*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Water](/grassland-id/water/) • [Calendar](/grassland-id/calendar/)*
 
 ## 1. Aims
 Partner schools with grassland owners and provide workshops, ID equipment, publications and low-cost habitat improvement to establish long-term observations through community engagement and education.
