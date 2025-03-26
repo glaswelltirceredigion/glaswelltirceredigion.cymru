@@ -4,7 +4,7 @@ draft: false
 description: "Water infiltration test"
 ---
 
-*• [Outline](/grassland-id/outline/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/dates/) • [Water](/grassland-id/water/)*
+*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Calendar](/grassland-id/calendar/) • [Water](/grassland-id/water/)*
 
 Reproduced with kind permission of [Agriculture and Horticulture Development Board](https://ahdb.org.uk/) . Original page: [ahdb.org.uk/knowledge-library/water-infiltration-test](https://ahdb.org.uk/knowledge-library/water-infiltration-test)
 ### Drainpipe test to measure infiltration of water into soil

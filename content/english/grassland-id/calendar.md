@@ -3,10 +3,9 @@ title: "Instructions"
 draft: false
 description: "Grassland ID instructions for teachers & workshop leaders"
 ---
-- Author: Jake Rayson
-- Created: Wed 26 Mar 2025
-- Last modified: Wed 26 Mar 2025
----
+
+*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Calendar](/grassland-id/calendar/) • [Water](/grassland-id/water/)*
+
 <iframe
   id="events-calendar"
   title="Grassland ID dates"
