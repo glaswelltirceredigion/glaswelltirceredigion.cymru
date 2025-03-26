@@ -1,13 +1,11 @@
 ---
-title: "Water"
+title: "Water infiltration test"
 draft: false
 description: "Water infiltration test"
 ---
-- Author: Jake Rayson
-- Created: Wed 26 Mar 2025
-- Last modified: Wed 26 Mar 2025
----
-## 3. Water infiltration test
+
+*• [Outline](/grassland-id/outline/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/dates/) • [Water](/grassland-id/water/)*
+
 Reproduced with kind permission of [Agriculture and Horticulture Development Board](https://ahdb.org.uk/) . Original page: [ahdb.org.uk/knowledge-library/water-infiltration-test](https://ahdb.org.uk/knowledge-library/water-infiltration-test)
 ### Drainpipe test to measure infiltration of water into soil
 Use the drainpipe test as a cheap and simple way to measure the infiltration of water into soil. When combined with the spade test, the causes of reduced infiltration (e.g. compaction at depth) can be quickly identified.

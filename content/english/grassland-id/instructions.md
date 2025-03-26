@@ -4,8 +4,14 @@ draft: false
 description: "Grassland ID instructions for teachers & workshop leaders"
 date: 2025-03-26T10:21:11+00:00
 ---
+
+*• [Outline](/grassland-id/outline/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/dates/) • [Water](/grassland-id/water/)*
+
 ## Overview
-partnering schools with grassland owners, providign worksho
+Partnering schools with owners of semi-natural grassland and providing workshops, ID equipment, publications and low-cost habitat improvement to establish long-term observations through community engagement and education.
+
+3 quizzes and 3 workshops
+
 ## Quiz
 - citizen science! buzz club, university of sussex
 - fill in spreadsheet - dates and 

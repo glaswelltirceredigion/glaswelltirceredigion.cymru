@@ -6,13 +6,13 @@ aliases:
 - /grassland-nature-id/
 - /grassland-id/
 ---
-- [This page online](https://glaswelltir.cymru/grassland-id): **`glaswelltir.cymru/grassland-id`**
+- [This page online](https://grwd.cc/grassland-id): **`grwd.cc/grassland-id`**
 - *Last updated:* Wed 26 Mar 2025
 
-• [Outline](/grassland-id/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/dates/) • [Water](/grassland-id/water/)
+*• [Outline](/grassland-id/outline/) • [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Dates](/grassland-id/dates/) • [Water](/grassland-id/water/)*
 
 ## 1. Summary
-Partnering schools with owners of semi-natural grassland and providing training, wildlife ID equipment and low-cost habitat improvement to ensure long-term observations through community engagement and education.
+Partnering schools with owners of semi-natural grassland and providing workshops, ID equipment, publications and low-cost habitat improvement to establish long-term observations through community engagement and education.
 ## 2. Schools
 1. Plascrug - *Fiona & Eve*
 2. Aberaeron - *Carys & Jake*
@@ -36,13 +36,13 @@ Partnering schools with owners of semi-natural grassland and providing training,
 - End: **Fri 18 Jul**
 - Bank holidays: 5 May, 26 May
 ## 4. Partners
-- [Buzz Club](https://www.thebuzzclub.uk/) ([University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/)) **`thebuzzclub.uk`**
-- Carex Ecology
-- [Ceredigion Nature Partnership](https://naturceredigion.cymru/) **`naturceredigion.cymru`** 
+- Isobel - [Buzz Club](https://www.thebuzzclub.uk/) ([University of Sussex](https://www.sussex.ac.uk/schools/life-sciences/)) **`thebuzzclub.uk`**
+- Bryony & Kate - Carex Ecology
+- Fiona & Jake - [Ceredigion Nature Partnership](https://naturceredigion.cymru/) **`naturceredigion.cymru`** 
+- Yusef & Carys - [West Wales Biodiversity Information Centre (WWBIC)](https://www.wwbic.org.uk/) **`wwbic.org.uk`** 
+- Eve & Michelle - [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/)  **`plantlife.org.uk/about-us/plantlife-cymru`**
+- Doug - [Wildlife Trust](https://www.welshwildlife.org/) **`welshwildlife.org`**
 - [Keep Wales Tidy Eco-Schools](https://keepwalestidy.cymru/eco-schools/) **`keepwalestidy.cymru/eco-schools`**
-- [Plantlife Cymru](https://www.plantlife.org.uk/about-us/plantlife-cymru/)  **`plantlife.org.uk/about-us/plantlife-cymru`**
-- [West Wales Biodiversity Information Centre (WWBIC)](https://www.wwbic.org.uk/) **`wwbic.org.uk`** 
-- [Wildlife Trust](https://www.welshwildlife.org/) **`welshwildlife.org`**
 ## 5. Resources
 ### Quiz
 * [Buzz Club quizzes](https://www.thebuzzclub.uk/resources) **`thebuzzclub.uk/resources`**
