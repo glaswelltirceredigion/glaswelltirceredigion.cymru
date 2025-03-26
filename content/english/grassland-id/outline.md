@@ -4,6 +4,7 @@ draft: false
 description: "Outline of Grassland ID project"
 aliases:
 - /grassland-nature-id/
+- /grassland-id/
 ---
 - [This page online](https://glaswelltir.cymru/grassland-id): **`glaswelltir.cymru/grassland-id`**
 - *Last updated:* Wed 26 Mar 2025
