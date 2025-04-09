@@ -1,7 +1,7 @@
 ---
-title: "Instructions"
+title: "Calendar"
 draft: false
-description: "Grassland ID instructions for teachers & workshop leaders"
+description: "Grassland ID calendar for quizzes & workshops"
 ---
 
 *• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Water](/grassland-id/water/) • [Calendar](/grassland-id/calendar/)*
