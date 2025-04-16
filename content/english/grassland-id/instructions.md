@@ -21,6 +21,7 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - Details: initials, student code, age, days in nature per month
 ## 3. Workshops
 - 3 x 2 hour workshops
+- 12-15 students, ages 7-11
 - Second workshop on school grounds
 - <mark>Mark out 4m x 4m school grass, leave unmown!</mark>
 - At last workshop, conduct **[<mark>water infiltration test</mark>](/grassland-id/water/)**
@@ -29,13 +30,21 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - £300 budget for habitat improvement
 - Doug - [Wildlife Trust](https://www.welshwildlife.org/)
 ## 5. Schools
-1. Plascrug - *Fiona & Eve*
-2. Aberaeron - *Carys & Jake*
-3. Llanarth - *Bryony & Michelle*
-4. Aberporth - *Jake & Michelle*
-5. Cardigan - *Yusef & Jake*
-6. Lampeter - *Bryony & Jake*
-7. Cilgerran (affiliated) - *Bryony & Jake*
+| School    | People |  Quiz 1  | Wkshp 1  | Wkshp 2  |  Quiz 2  | Wkshp 3  |  Quiz 3  | Kit |
+| --------- | :----: | :------: | :------: | :------: | :------: | :------: | :------: | :-: |
+| Aberaeron | `C&J`  |          | `08 May` | `05 Jun` |          | `03 Jul` |          |  ✅  |
+| Aberporth | `J&M`  | `28 Apr` | `15 May` | `05 Jun` | `24 Jun` | `11 Jul` | `14 Jul` |  ✅  |
+| Aberteifi | `Y&J`  |          |          |          |          |          |          |     |
+| Bro Pedr  | `B&J`  |          |  `Sep`   |  `Sep`   |          |  `Oct`   |          |     |
+| Cilgerran | `B&J`  |          | `23 May` | `13 Jun` |          | `04 Jul` |          |  ✅  |
+| Llanarth  | `B&M`  |          | `19 May` | `16 Jun` |          | `07 Jul` |          |  ✅  |
+| Plascrug  | `F&E`  |          |          |          |          |          |          |     |
+`B` - Bryony
+`C` - Carys
+`E` - Eve
+`J` - Jake
+`M` - Michelle
+`Y` - Yusef
 ## 6. Dates
 - `14 Apr - 27 Apr` - *Easter holidays* 
 - `28 Apr - 02 May` - Quiz 1
