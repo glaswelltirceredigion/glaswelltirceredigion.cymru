@@ -39,13 +39,9 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 | [Cilgerran](https://w3w.co/strategy.pitchers.scrubber)✅ | `B&J`  |   [Hope](https://w3w.co/present.purifier.canyons)   |          | `23 May` | `13 Jun` |          | `04 Jul` |          |
 | [Llanarth](https://w3w.co/sheds.crouch.genetics)✅       | `B&M`  |                          -                          |          | `19 May` | `16 Jun` |          | `07 Jul` |          |
 | [Plascrug](https://w3w.co/solving.cold.hourglass)       | `F&E`  | [Cemetry](https://w3w.co/foreheads.originals.seats) |          |          |          |          |          |          |
----
-`B` - Bryony
-`C` - Carys
-`E` - Eve
-`J` - Jake
-`M` - Michelle
-`Y` - Yusef
+
+`B` - Bryony; `C` - Carys; `E` - Eve; `J` - Jake; `M` - Michelle; `Y` - Yusef
+
 ## 6. Dates
 - `14 Apr - 27 Apr` - *Easter holidays* 
 - `28 Apr - 02 May` - Quiz 1
