@@ -1,14 +1,12 @@
 ---
-title: "Instructions"
+title: "Grassland ID overview"
 draft: false
 description: "Grassland ID instructions for teachers & workshop leaders"
 date: 2025-03-26T10:21:11+00:00
-aliases: 
-- /grassland-nature-id/
-- /grassland-id/
+
 ---
 
-*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Water](/grassland-id/water/) • [Calendar](/grassland-id/calendar/)*
+*• [Overview](/grassland-id/) • [Worksheets](/grassland-id/worksheets/) • [Water](/grassland-id/water/) • [Calendar](/grassland-id/calendar/)*
 
 [![Map of Ceredigion with road and points](https://res.cloudinary.com/glaswelltir/image/upload/w_600/v1742998225/250326-grassland-nature-id-map-crop.webp)](https://grwd.cc/glaswelltir-ceredigion-map) 
 ## 1. Aims

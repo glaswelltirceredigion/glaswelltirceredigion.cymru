@@ -6,7 +6,7 @@ aliases:
 - /worksheets/
 ---
 
-*• [Instructions](/grassland-id/instructions) • [Worksheets](/grassland-id/worksheets/) • [Water](/grassland-id/water/) • [Calendar](/grassland-id/calendar/)*
+*• [Overview](/grassland-id/) • [Worksheets](/grassland-id/worksheets/) • [Water](/grassland-id/water/) • [Calendar](/grassland-id/calendar/)*
 
 ## Worksheet 1
 ### Plants
