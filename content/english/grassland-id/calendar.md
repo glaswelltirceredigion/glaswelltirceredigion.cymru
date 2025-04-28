@@ -14,19 +14,4 @@ description: "Grassland ID calendar for quizzes & workshops"
   >
 </iframe>
 
-| School    | People |  Quiz 1  | Wkshp 1  | Wkshp 2  |  Quiz 2  | Wkshp 3  |  Quiz 3  | Kit |
-| --------- | :----: | :------: | :------: | :------: | :------: | :------: | :------: | :-: |
-| Aberaeron | `C&J`  |          | `08 May` | `05 Jun` |          | `03 Jul` |          |  ✅  |
-| Aberporth | `J&M`  | `28 Apr` | `15 May` | `05 Jun` | `24 Jun` | `11 Jul` | `14 Jul` |  ✅  |
-| Aberteifi | `Y&J`  |          |          |          |          |          |          |     |
-| Bro Pedr  | `B&J`  |          |  `Sep`   |  `Sep`   |          |  `Oct`   |          |     |
-| Cilgerran | `B&J`  |          | `23 May` | `13 Jun` |          | `04 Jul` |          |  ✅  |
-| Llanarth  | `B&M`  |          | `19 May` | `16 Jun` |          | `07 Jul` |          |  ✅  |
-| Plascrug  | `F&E`  |          |          |          |          |          |          |     |
-`B` - Bryony
-`C` - Carys
-`E` - Eve
-`J` - Jake
-`M` - Michelle
-`Y` - Yusef
 

@@ -34,8 +34,8 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 | School  | People |          Sites  |  Quiz 1  |       Wkshp 1       | Wkshp 2  |  Quiz 2  | Wkshp 3  |  Quiz 3  |
 | ------------------------------------------------------- | :----: | :-------------------------------------------------: | :------: | :-----------------: | :------: | :------: | :------: | :------: |
 | [Aberaeron](https://w3w.co/mondays.iteration.padding)✅  | `C&J`  | [Penmorfa](https://w3w.co/streetcar.palettes.fades) |          | `08 May`<br>`C,M&J` | `05 Jun` |          | `03 Jul` |          |
-| [Aberporth](https://w3w.co/bidder.seated.frown)✅        | `J&M`  |   [Green](https://w3w.co/clumped.neutron.printer)   | `28 Apr` |  `15 May`<br>`J&F`  | `05 Jun` | `24 Jun` | `11 Jul` | `14 Jul` |
-| [Aberteifi](https://w3w.co/remission.leaky.tripods)     | `Y&J`  |   [Netpool](https://w3w.co/clauses.zinc.innovate)   |          |        `6/9`        | `19 Jun` |          | `1/2/8`  |          |
+| [Aberporth](https://w3w.co/bidder.seated.frown)✅   | `J&M`  |   [Green](https://w3w.co/clumped.neutron.printer)   | `28 Apr` |  `15 May`<br>`J&F`  | `05 Jun` | `24 Jun` | `11 Jul` | `14 Jul` |
+| [Aberteifi](https://w3w.co/remission.leaky.tripods)✅   | `Y&J`  |   [Netpool](https://w3w.co/clauses.zinc.innovate)   |          |        `6/9`        | `19 Jun` |          | `1/2/8`  |          |
 | [Bro Pedr](https://w3w.co/splash.stable.advancing)      | `B&J`  | [Uni](https://w3w.co/clarifies.coverage.lingering)  |          |        `Sep`        |  `Sep`   |          |  `Oct`   |          |
 | [Cilgerran](https://w3w.co/strategy.pitchers.scrubber)✅ | `B&J`  |   [Hope](https://w3w.co/present.purifier.canyons)   |          |      `23 May`       | `13 Jun` |          | `04 Jul` |          |
 | [Llanarth](https://w3w.co/sheds.crouch.genetics)✅       | `B&M`  |                          -                          |          |      `19 May`       | `16 Jun` |          | `07 Jul` |          |
