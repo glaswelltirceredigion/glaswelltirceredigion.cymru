@@ -33,7 +33,7 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 ## 5. Schools
 | School                                                  | People |                        Sites                        |  Quiz 1  |       Wkshp 1       |      Wkshp 2      |  Quiz 2  | Wkshp 3  |  Quiz 3  |
 | ------------------------------------------------------- | :----: | :-------------------------------------------------: | :------: | :-----------------: | :---------------: | :------: | :------: | :------: |
-| [Aberaeron](https://w3w.co/mondays.iteration.padding)✅  | `C&J`  | [Penmorfa](https://w3w.co/streetcar.palettes.fades) |          | `08 May`<br>`C,M&J` | `05 Jun`<br>`C&F` |          | `03 Jul` |          |
+| [Aberaeron](https://w3w.co/mondays.iteration.padding)✅  | `C&J`  | [Penmorfa](https://w3w.co/streetcar.palettes.fades) |          | `08`&nbsp;`May`<br>`C,M&J` | `05 Jun`<br>`C&F` |          | `03 Jul` |          |
 | [Aberporth](https://w3w.co/bidder.seated.frown)✅        | `J&M`  |   [Green](https://w3w.co/clumped.neutron.printer)   | `28 Apr` |  `15 May`<br>`J&F`  |     `05 Jun`      | `24 Jun` | `11 Jul` | `14 Jul` |
 | [Aberteifi](https://w3w.co/remission.leaky.tripods)     | `Y&J`  |   [Netpool](https://w3w.co/clauses.zinc.innovate)   |          |       `9 May`       |     `19 Jun`      |          | `1/2/8`  |          |
 | [Bro Pedr](https://w3w.co/splash.stable.advancing)      | `B&J`  | [Uni](https://w3w.co/clarifies.coverage.lingering)  |          |        `Sep`        |       `Sep`       |          |  `Oct`   |          |
