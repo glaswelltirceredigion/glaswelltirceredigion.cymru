@@ -31,15 +31,15 @@ Partner schools with grassland owners and provide workshops, ID equipment, publi
 - £300 budget for habitat improvement
 - Doug - [Wildlife Trust](https://www.welshwildlife.org/)
 ## 5. Schools
-| School                                                 | People |                        Sites                        |  Quiz 1  |       Wkshp 1       |      Wkshp 2      |  Quiz 2  | Wkshp 3  |  Quiz 3  |
-| ------------------------------------------------------ | :----: | :-------------------------------------------------: | :------: | :-----------------: | :---------------: | :------: | :------: | :------: |
-| [Aberaeron](https://w3w.co/mondays.iteration.padding)  | `C&J`  | [Penmorfa](https://w3w.co/streetcar.palettes.fades) |          | `08 May`<br>`C,M&J` | `05 Jun`<br>`C&F` |          | `03 Jul` |          |
-| [Aberporth](https://w3w.co/bidder.seated.frown)        | `J&M`  |   [Green](https://w3w.co/clumped.neutron.printer)   | `28 Apr` |  `15 May`<br>`J&F`  |     `05 Jun`      | `24 Jun` | `11 Jul` | `14 Jul` |
-| [Aberteifi](https://w3w.co/remission.leaky.tripods)    | `Y&J`  |   [Netpool](https://w3w.co/clauses.zinc.innovate)   |          |       `9 May`       |     `19 Jun`      |          | `1/2/8`  |          |
-| [Bro Pedr](https://w3w.co/splash.stable.advancing)     | `B&J`  | [Uni](https://w3w.co/clarifies.coverage.lingering)  |          |        `Sep`        |       `Sep`       |          |  `Oct`   |          |
-| [Cilgerran](https://w3w.co/strategy.pitchers.scrubber) | `B&J`  |   [Hope](https://w3w.co/present.purifier.canyons)   |          |      `23 May`       |     `13 Jun`      |          | `04 Jul` |          |
-| [Llanarth](https://w3w.co/sheds.crouch.genetics)       | `B&M`  |    [Lusitanos](w3w.co/reclining.payout.pastels)     |          |      `19 May`       |     `16 Jun`      |          | `07 Jul` |          |
-| [Plascrug](https://w3w.co/solving.cold.hourglass)      | `F&E`  | [Cemetry](https://w3w.co/foreheads.originals.seats) |          |      `12 May`       |     `11 Jun`      |          | `07 Jul` |          |
+| School                                                 | People |                        Sites                        |  Quiz 1  |        Wkshp 1        |      Wkshp 2      |  Quiz 2  | Wkshp 3  |  Quiz 3  |
+| ------------------------------------------------------ | :----: | :-------------------------------------------------: | :------: | :-------------------: | :---------------: | :------: | :------: | :------: |
+| [Aberaeron](https://w3w.co/mondays.iteration.padding)  | `C&J`  | [Penmorfa](https://w3w.co/streetcar.palettes.fades) |          | `13/15/16`<br>`C,M&J` | `05 Jun`<br>`C&F` |          | `03 Jul` |          |
+| [Aberporth](https://w3w.co/bidder.seated.frown)        | `J&M`  |   [Green](https://w3w.co/clumped.neutron.printer)   | `28 Apr` |   `15 May`<br>`J&F`   |     `05 Jun`      | `24 Jun` | `11 Jul` | `14 Jul` |
+| [Aberteifi](https://w3w.co/remission.leaky.tripods)    | `Y&J`  |   [Netpool](https://w3w.co/clauses.zinc.innovate)   |          |        `9 May`        |     `19 Jun`      |          | `1/2/8`  |          |
+| [Bro Pedr](https://w3w.co/splash.stable.advancing)     | `B&J`  | [Uni](https://w3w.co/clarifies.coverage.lingering)  |          |         `Sep`         |       `Sep`       |          |  `Oct`   |          |
+| [Cilgerran](https://w3w.co/strategy.pitchers.scrubber) | `B&J`  |   [Hope](https://w3w.co/present.purifier.canyons)   |          |       `23 May`        |     `13 Jun`      |          | `04 Jul` |          |
+| [Llanarth](https://w3w.co/sheds.crouch.genetics)       | `B&M`  |    [Lusitanos](w3w.co/reclining.payout.pastels)     |          |       `19 May`        |     `16 Jun`      |          | `07 Jul` |          |
+| [Plascrug](https://w3w.co/solving.cold.hourglass)      | `F&E`  | [Cemetry](https://w3w.co/foreheads.originals.seats) |          |       `12 May`        |     `11 Jun`      |          | `07 Jul` |          |
 
 `B` - Bryony; `C` - Carys; `E` - Eve; `F` - Fiona; `J` - Jake; `M` - Michelle; `Y` - Yusef
 
